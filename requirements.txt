@@ -1,0 +1,5 @@
+# 검증 환경(2026-06): Python 3.12.10 / Windows 11 / 한컴오피스 2024
+mcp>=1.28.0
+pyhwpx>=1.7.2
+# pyhwpx가 자동 설치: pywin32, pandas, numpy, pillow, pyperclip, openpyxl
+# mcp가 자동 설치: anyio, pydantic, httpx, starlette, uvicorn 등

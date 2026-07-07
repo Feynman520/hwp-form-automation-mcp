@@ -26,8 +26,8 @@
 ## 설치
 
 ```powershell
-git clone https://github.com/Feynman520/hwp-form-automation-mcp.git
-cd hwp-form-automation-mcp
+git clone https://github.com/Feynman520/d01-p01-hwp-form-automation-mcp.git
+cd d01-p01-hwp-form-automation-mcp
 py -3.12 -m venv .venv          # 또는: python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
 ```

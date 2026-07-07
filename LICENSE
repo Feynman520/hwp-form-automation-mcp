@@ -19,11 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Note: `security/FilePathCheckerModule.dll` is a security module created and
-distributed by Hancom Inc. as part of the HWP automation ecosystem (also
-bundled in the `pyhwpx` PyPI package). It is redistributed here for
-installation convenience and is NOT covered by the MIT license above; all
-rights to that file belong to Hancom Inc.

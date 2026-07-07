@@ -1,0 +1,13 @@
+Third-party component notice
+============================
+
+security/FilePathCheckerModule.dll is a security module created and
+distributed by Hancom Inc. as part of the HWP automation ecosystem (the same
+file is also bundled in the `pyhwpx` PyPI package). It is redistributed here
+for installation convenience only and is NOT covered by this repository's MIT
+license; all rights to that file belong to Hancom Inc.
+
+security/FilePathCheckerModule.dll 은 한컴(Hancom Inc.)이 HWP 자동화 생태계용으로
+제작·배포하는 보안모듈입니다(pyhwpx PyPI 패키지에도 동일 파일이 포함되어 배포됨).
+설치 편의를 위해 함께 담았을 뿐 본 리포의 MIT 라이선스 대상이 아니며, 해당 파일의
+모든 권리는 한컴에 있습니다.
